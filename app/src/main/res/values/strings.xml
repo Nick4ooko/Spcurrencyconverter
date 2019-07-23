@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sp currency converter</string>
+    <string-array name="currency_name">
+        <item>Kenyashillings</item>
+        <item>USdollars</item>
+        <item>EURO</item>
+    </string-array>
+
+
+</resources>
